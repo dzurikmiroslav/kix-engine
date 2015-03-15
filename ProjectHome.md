@@ -1,0 +1,1 @@
+Kix Engine is 3D game engine based on Qt framework.
